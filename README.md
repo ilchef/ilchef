@@ -3,7 +3,7 @@
 I am a Sydney-based Data Science and Visualisation enthusiast, with a background in Banking & Credit Risk.
 
 <div align="center">
-<a href="https://www.linkedin.com/in/tilchef">
+<a href="https://www.linkedin.com/in/thomas-ilchef-b4a19b142/">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:thomasilchef@gmail.com">
