@@ -2,4 +2,4 @@
 
 I am a data science and visualisation enthusiast, working in credit risk modelling
 
-![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilchef&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilchef)](https://github.com/ilchef/github-readme-stats)
