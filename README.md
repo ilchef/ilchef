@@ -1,6 +1,6 @@
 ### About Me
 
-I am a data science and visualisation enthusiast, with a background in banking & credit risk modelling.
+I am a Sydney-based Data Science and Visualisation enthusiast, with a background in Banking & Credit Risk.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilchef)](https://github.com/ilchef/github-readme-stats)
 
