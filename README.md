@@ -2,6 +2,16 @@
 
 I am a Sydney-based Data Science and Visualisation enthusiast, with a background in Banking & Credit Risk.
 
+<div align="center">
+<a href="https://www.linkedin.com/in/tilchef">
+<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="mailto:thomasilchef@gmail.com">
+<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
+</div>
+
+
 ### See My Work:
 - [my football prediction model](https://github.com/ilchef/international_football_prediction_model) - including model performance dashboard and user interface.
 
@@ -21,7 +31,35 @@ I am a Sydney-based Data Science and Visualisation enthusiast, with a background
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="microsoftexcel" />
 
 ### Github 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilchef&layout=demo)](https://github.com/ilchef/github-readme-stats)
 
+<div align="center">
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/ilchef">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilchef&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Tom's Language Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/ilchef">
+            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ilchef?cardType=github&theme=github" alt="Tom's GitHub Stats" /> -->
+            <img src="https://github-readme-stats.vercel.app/api?username=ilchef&show_icons=true&hide=stars&hide_border=true" alt="Tom's GitHub Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+      </tr>
+    </tbody>
+  <table>
+<div>
 
+---
 
+<div align='center'>
+
+![](https://komarev.com/ghpvc/?username=ilchef&label=Profile+Views)
+
+</div>
