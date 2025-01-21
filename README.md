@@ -14,6 +14,7 @@ I am a Sydney-based Data Science and Visualisation enthusiast, with a background
 
 ### See My Work:
 - [my football prediction model](https://github.com/ilchef/international_football_prediction_model) - including model performance dashboard and user interface.
+- [hardest climbs](https://github.com/9cpluss/hardest-climbs) - an open-source initiative to document outdoor climbing milestone data that I contribute to.
 
 ### Tools
 
